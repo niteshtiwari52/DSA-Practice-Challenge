@@ -1,0 +1,5 @@
+sum is 30
+sum is 70
+sum is 60
+sum is 80
+sum is 100
